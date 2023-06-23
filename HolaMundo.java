@@ -5,6 +5,7 @@ public class HolaMundo {
 		NicolasFiquitivaSegura.Saludo();
 		LuisMendoza.Saludo();
 		OscarBriceño.Saludo();
+		KarolPote.Saludo();
 		CristianCamiloPinzon.Saludo();
 		MartinDarioDazaGarzon.Saludo();
 	}
