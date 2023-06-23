@@ -4,11 +4,14 @@ public class HolaMundo {
 
 		NicolasFiquitivaSegura.Saludo();
 		LuisMendoza.Saludo();
-		OscarDanielRico.Saludo();
+		OscarBriceño.Saludo();
+		KarolPote.Saludo();
+		CristianCamiloPinzon.Saludo();
+		MartinDarioDazaGarzon.Saludo();
 		KarolPote.Saludo();
 		CristianCamiloPinzon.Saludo();
 		JorgeHernandez.Saludo();
-		MartinDarioDazaGarzon.Saludo();
+		OscarDanielRico.Saludo();
 	}
 
 }
