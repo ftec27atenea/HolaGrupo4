@@ -1,5 +1,3 @@
-import static java.lang.System.out;
-
 public class HolaMundo {
 
 	public static void main(String[] args) {
@@ -7,6 +5,8 @@ public class HolaMundo {
 		NicolasFiquitivaSegura.Saludo();
 		LuisMendoza.Saludo();
 		OscarBriceño.Saludo();
+		CristianCamiloPinzon.Saludo();
+		MartinDarioDazaGarzon.Saludo();
 	}
 
 }
