@@ -11,6 +11,7 @@ public class HolaMundo {
 		JorgeHernandez.Saludo();
 		OscarDanielRico.Saludo();
 		SantiagoDuarteMoyano.Saludo();
+		RuthLizcano.Saludo();
 	}
 
 }
